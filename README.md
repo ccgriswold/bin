@@ -12,7 +12,7 @@ About:
 - This will also run the command line to install "Bourbon" and "Neat" Sass dependencies in scss folder.
 
 #####Files to be created/stored in their respective folders.:
--  "index.html" HTML5 file with simple skeleton (text includes: commented out <script src= JQuery & Underscore />, <link href=main.css />, and <script src=app.js />).
+-  "index.html" HTML5 file with simple skeleton (text includes: commented out \<script src= JQuery & Underscore \/\>, \<link href=main.css \/\>, and \<script src=app.js \/\>).
 -  "main.scss" SASS file (text includes: "@import bourbon; @import neat;").
 -  "app.js" JavaScript file (commented out text allows for ES6 functionality)
 
