@@ -27,7 +27,7 @@ cd ..
 
 echo "Gulp Programs Installing via NPM"
 
-npm install gulp gulp-sass gulp-ng-annotate gulp-browser gulp-uglify
+npm install --save-dev gulp gulp-sass gulp-ng-annotate gulp-browser gulp-uglify
 
 echo "Gulp Programs Install"
 
