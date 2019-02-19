@@ -38,4 +38,4 @@ TO RUN:
 ---
 Now you can use the OneStop script within any given directory to create your basic skeleton for a new project. To do this, just call the OneStop script:
 
-<code>~/bin/onestop</code>
+<code>~/bin/diamondgit</code>
